@@ -20,6 +20,14 @@
 
 ###
 
+<h2 align="right">SKILL SET</h2>
+
+###
+
+<h4 align="right">• Python - OOP<br> • PythonForAndroid - Kivy - Buildozer - Android Studio<br> • ESP32 - MicroPython<br> • 3D modeling - Autodesk Fusion 360 - PrusaSlicer<br> • Design / UI UX - Figma<br> •PCB / EDA - KiCad<br> •Linux - Ubuntu</h4>
+
+###
+
 <h2 align="right">PROJECTS</h2>
 
 ###
