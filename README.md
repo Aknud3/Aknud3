@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="right">• Python - OOP<br> • PythonForAndroid - Kivy - Buildozer - Android Studio<br> • ESP32 - MicroPython<br> • 3D modeling - Autodesk Fusion 360 - PrusaSlicer<br> • Design / UI UX - Figma<br> •PCB / EDA - KiCad<br> •Linux - Ubuntu</h4>
+<h5 align="right">• Python - OOP<br><br> • PythonForAndroid - Kivy - Buildozer - Android Studio<br><br> • ESP32 - MicroPython<br><br> • 3D modeling - Autodesk Fusion 360 - PrusaSlicer<br><br> • Design / UI UX - Figma<br><br> •PCB / EDA - KiCad<br><br> •Linux - Ubuntu</h5>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="right">- ESP32 3D printed QLOCK2<br>- ESP32 powered table football<br>- Android aplication with Tensorflow and OpenCV</h4>
+<h4 align="right">•  ESP32 3D printed QLOCK2<br><br>•  ESP32 powered table football<br><br>•  Android aplication with Tensorflow and OpenCV</h4>
 
 ###
 
