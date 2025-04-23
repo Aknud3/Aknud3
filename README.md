@@ -24,12 +24,12 @@
 
 ###
 
-<p align="right">- ESP32 3D printed **QLOCK2**<br>- ESP32 powered **table football**<br>- **Android** aplication with Tensorflow and OpenCV</p>
+<h4 align="right">- ESP32 3D printed QLOCK2<br>- ESP32 powered table football<br>- Android aplication with Tensorflow and OpenCV</h4>
 
 ###
 
 <div align="right">
-  <img height="300" src="https://media1.tenor.com/m/ICtCsyRQezoAAAAC/esp32.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/ICtCsyRQezoAAAAC/esp32.gif"  />
 </div>
 
 ###
